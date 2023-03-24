@@ -1,4 +1,4 @@
-# Student-Help
+# Student-Help Management App
 Keeping proper track of student's records.
 
 The first significant advantage of a student management system is that as a school you are able to keep proper
